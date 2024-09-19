@@ -22,6 +22,7 @@ Proje sonucunda en başarılı yöntem %98 başarı oranı ile K-Means yöntemi 
 Kullanılan Veri Seti
 
 Veri seti, Kaggle'dan elde edilmiştir. Aşağıda veri setine erişim için bağlantı verilmiştir:
+
 https://www.kaggle.com/datasets/harshitlakhani/natural-diamonds-prices-images
 
 Kaggle Notebook Linkim:
